@@ -1,0 +1,23 @@
+K<<!DOCTYPE html>
+<html lang="en">
+<head>
+				<title>Page title</title>
+</head>
+<body>
+				<h3>Registeration Form </h3>
+				<form>
+				First	name:	<input type="text"placeholder="enter your name"><br>
+				Last name: <input type="text"placeholder="enter your lastname"><br>
+				Enter your password:<input type="password"placeholder="enter your password"><br>
+				phone no:<input type="text "placeholder="enter your phone no."><br>
+				select gender <input type="radio"name="gender">male 
+				<input type="radio"name="gender">female
+			<br>	<Button type="submit"value="submit">submit form</Button>
+				
+ 
+
+								
+				</button>
+				</form>
+</body>
+</html>
